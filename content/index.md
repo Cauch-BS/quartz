@@ -2,9 +2,8 @@
 title: Hello and Welcome!
 date : 2023-11-06
 draft: false
-tags: 
-    - home
-    - 
+tags:
+  - example-tag
 ---
 
 This is a blank Quartz installation.
